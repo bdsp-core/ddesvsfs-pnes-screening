@@ -1,5 +1,9 @@
 # DDESVSFS: screening tool for epileptic vs functional (psychogenic) seizures
 
+> **Code repository.** This repo holds the analysis code; the de-identified **data** live in the bdsp.io **credentialed release** (data → AWS, code → GitHub):
+> [bdsp.io/content/wiher11yebsxeigs9uwb/1.0.0](https://bdsp.io/content/wiher11yebsxeigs9uwb/1.0.0/) · DOI [10.60508/yyev-cx22](https://doi.org/10.60508/yyev-cx22) · `s3://bdsp-opendata-credentialed/ddesvsfs-pnes-screening/`
+
+
 MATLAB code and de-identified data for:
 
 > Janocko NJ, Jing J, Fan Z, Teagarden DL, Villarreal HK, Morton ML, Groover O, Loring DW,
